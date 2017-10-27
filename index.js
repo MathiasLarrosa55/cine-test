@@ -1,3 +1,5 @@
+// inicializo las variables globales
+
 var films = [];
 var filmsDataAccessOject = new filmsService();
 
